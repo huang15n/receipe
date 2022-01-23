@@ -1,0 +1,10 @@
+INSERT INTO CATEGORY (description) VALUES ('America');
+INSERT INTO  CATEGORY (description) VALUES ('China');
+INSERT INTO  CATEGORY (description) VALUES ('German');
+INSERT INTO  CATEGORY (description) VALUES ('Canada');
+INSERT INTO  CATEGORY (description) VALUES ('French');
+INSERT INTO unit_of_measure (description) VALUES ('teaspoonful');
+INSERT INTO unit_of_measure (description) VALUES ('spoonful');
+INSERT INTO unit_of_measure (description) VALUES ('cup');
+INSERT INTO unit_of_measure (description) VALUES ('pinch');
+INSERT INTO unit_of_measure (description) VALUES ('tablespoon');
